@@ -1,0 +1,1 @@
+A hands-on DevOps engineering portfolio showcasing real-world projects in AWS, Docker, CI/CD, Terraform, Kubernetes, Linux, automation, and monitoring. Focused on building cloud infrastructure, automating deployments, troubleshooting systems, applying security best practices, and developing production-ready DevOps skills.
